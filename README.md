@@ -34,7 +34,7 @@
 <ol>
     <li>
         <strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/your-username/freshmart-website.git</code></pre>
+        <pre><code>git clone https://github.com/Sanda1113/freshmart-website.git</code></pre>
     </li>
     <li>
         <strong>Navigate to the folder:</strong>
@@ -77,7 +77,7 @@
 
 <h2>👤 Author</h2>
 <ul>
-    <li><strong>Student ID:</strong> [Enter Your ID Here]</li>
+    <li><strong>Student ID:</strong> CB014568</li>
     <li><strong>Module:</strong> COMP50008 - Enterprise Cloud and Infrastructure Automation 1</li>
 </ul>
 
